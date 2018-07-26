@@ -1,0 +1,17 @@
+ {
+  "name": "exemplo-node",
+  "version": "1.0.0",
+  "description": "Exemplo de nodeJS para Estação Hack 7",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exemplo",
+    "nodejs",
+    "estacaohack",
+    "facebook"
+  ],
+  "author": "Marina Naomi",
+  "license": "ISC"
+}
